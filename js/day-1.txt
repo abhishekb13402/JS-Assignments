@@ -1,0 +1,19 @@
+Javascript
+Programming/scripting language
+Manipulation HTML and CSS
+DOM -Document Object Model
+
+Variable
+conditions
+loops
+arrays
+
+Node JS
+
+Programming Concepts
+DOM Manipulation
+
+javascript only on html pg.
+1. internal js
+2. external js
+
