@@ -1,8 +1,0 @@
-operators
-arithmetic op + - * / %
-assignment op = += -= /= %= (right to left) 
-comarison op / relational op == != < > <= >=
-identity op === !==
-conditional op / logical op && || !
-unary op ++ --
-conditional ststement
